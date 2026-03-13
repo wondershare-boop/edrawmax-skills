@@ -27,6 +27,12 @@
 
 ---
 
+## 安装方法
+
+```bash
+npx skills add https://github.com/wondershare-boop/edrawmax-skills
+```
+
 ## 快速开始
 
 ### 触发方式

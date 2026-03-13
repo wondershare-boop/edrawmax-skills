@@ -27,6 +27,12 @@ The `edrawmax-diagram` skill lets you describe a diagram in plain language and i
 
 ---
 
+## Installation
+
+```bash
+npx skills add https://github.com/wondershare-boop/edrawmax-skills
+```
+
 ## Quick Start
 
 ### Trigger Phrases
