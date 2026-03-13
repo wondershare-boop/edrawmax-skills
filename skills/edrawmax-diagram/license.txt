@@ -1,0 +1,47 @@
+Proprietary Software License
+
+Copyright (c) 2026 Wondershare EdrawMax AI Team（万兴图示 AI 团队）. All rights reserved.
+
+This skill, including all associated source code, documentation, scripts,
+references, assets, and other materials (collectively, the "Software"),
+is the proprietary and confidential property of the EdrawMax AI Team（万兴图示 AI 团队）,
+a division of Wondershare Technology Co., Ltd.
+
+TERMS AND CONDITIONS
+
+1. Ownership
+   The Software is owned by and remains the exclusive property of
+   Wondershare EdrawMax AI Team（万兴图示 AI 团队）. All intellectual property rights,
+   including but not limited to copyrights, patents, trademarks, and
+   trade secrets, are reserved by the EdrawMax AI Team.
+
+2. Restrictions
+   Without the prior written consent of EdrawMax AI Team, you may NOT:
+   (a) Copy, modify, adapt, or create derivative works of the Software;
+   (b) Distribute, sublicense, lease, rent, or transfer the Software
+       to any third party;
+   (c) Reverse engineer, decompile, or disassemble the Software;
+   (d) Remove or alter any proprietary notices, labels, or marks on
+       the Software.
+
+3. Permitted Use
+   This Software is provided solely for use within authorized EdrawMax
+   products and services. Use is subject to the EdrawMax Terms of Service
+   and any additional agreements between you and Wondershare.
+
+4. Disclaimer of Warranty
+   THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND,
+   EXPRESS OR IMPLIED. EDRAWMAX AI TEAM DISCLAIMS ALL WARRANTIES,
+   INCLUDING WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR
+   PURPOSE, AND NON-INFRINGEMENT.
+
+5. Limitation of Liability
+   IN NO EVENT SHALL EDRAWMAX AI TEAM OR WONDERSHARE BE LIABLE FOR ANY
+   INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES
+   ARISING OUT OF OR RELATED TO THE USE OF THIS SOFTWARE.
+
+6. Governing Law
+   This license shall be governed by and construed in accordance with
+   the laws of the People's Republic of China.
+
+Contact: EdrawMax AI Team（万兴图示 AI 团队）, Wondershare Technology Co., Ltd.
