@@ -76,14 +76,23 @@ python <skill-path>/scripts/download_diagram.py --png-url "<png_url>" --svg-url 
   {"png_path": "./edrawmax_output/diagram_20260312_143000.png", "svg_path": "./edrawmax_output/diagram_20260312_143000.svg"}
   ```
 - Use the returned **local file paths** when presenting results to the user.
+- **Security**: The script only accepts `https://` URLs whose hostname belongs to trusted EdrawMax OSS domains (`.aliyuncs.com`, `.wondershare.com`, `.edrawsoft.com`, `.edrawmax.com`). TLS certificates are fully verified. URLs from any other host are rejected — do not pass user-supplied or third-party URLs to this script.
 
 ## Step 4 — Present Results to User
 
-Provide the user with:
-1. **Local PNG file path** (primary, for quick preview)
-2. **Local SVG file path** (for high-quality / scalable use)
-3. **Source code** (`mermaid_code` or `source_code`) for secondary editing
-4. **Original OSS URLs** as backup links
+Use the following preferred display format:
+
+1. **Thumbnail (PNG)** — Render the local PNG file as an inline image if the environment supports it (e.g. Markdown `![diagram](path/to/diagram.png)`). If inline rendering is not supported, show the `png_url` as a clickable link instead.
+2. **High-res diagram (SVG)** — Always present the `svg_url` as a clickable link so the user can open the full-quality vector image in their browser: e.g. `[查看高清图](svg_url)`.
+3. **Source code** — Show `mermaid_code` (flowchart) or `source_code` (other types) in a code block for secondary editing or re-rendering.
+
+Example output format:
+
+```
+![diagram](./edrawmax_output/diagram_20260312_143000.png)
+
+[查看高清图（SVG）](https://xxx.oss.com/.../main.svg)
+```
 
 ## Error Handling
 
