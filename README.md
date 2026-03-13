@@ -3,7 +3,7 @@
 > **Author:** EdrawMax AI Team · **Organization:** Wondershare EdrawMax  
 > **Version:** 2.0.0 · **License:** Proprietary © 2026 Wondershare EdrawMax. All rights reserved.
 
-An AI skill for [GitHub Copilot CLI](https://githubnext.com/projects/copilot-cli) that generates professional diagrams from natural language descriptions using EdrawMax AI APIs.
+An AI skill for AI Agent(OpenClaw, Claude Code etc.) that generates professional diagrams from natural language descriptions using EdrawMax AI APIs.
 
 ---
 

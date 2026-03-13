@@ -3,7 +3,7 @@
 > **作者：** 万兴图示 AI 团队（EdrawMax AI Team）· **组织：** Wondershare EdrawMax（万兴图示）  
 > **版本：** 2.0.0 · **许可证：** 专有软件 © 2026 Wondershare EdrawMax（万兴图示）。保留所有权利。
 
-这是一个面向 [GitHub Copilot CLI](https://githubnext.com/projects/copilot-cli) 的 AI 技能（Skill），通过万兴图示 AI API，将自然语言描述一键生成专业图表。
+这是一个面向 AI Agent（如: OpenClaw, Claude Code等） 的 AI 技能（Skill），通过万兴图示 AI API，将自然语言描述一键生成专业图表。
 
 ---
 
@@ -31,7 +31,7 @@
 
 ### 触发方式
 
-在 GitHub Copilot CLI 中，用自然语言描述需求，技能将自动激活：
+在 OpenClaw 中，用自然语言描述需求，技能将自动激活：
 
 - *"帮我生成用户注册登录的流程图"*
 - *"创建一张关于机器学习知识体系的思维导图"*
